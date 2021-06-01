@@ -10,6 +10,10 @@ Don't go further into the readme, as it contains story spoilers for the game. Yo
 -  Time at 00:00:00
 - Available Party: Pyra/Mythra, Dromarch, Brihgid, Roc, Pandoria, Ageon, Shulk, Fiora, Elma, Poppibuster and all Poppi forms
 - In new game+ Roc, Ageon, Poppi forms and Blade-Nia aren't available from the start
+- All Rare Blade Affinity Charts are complete, even if you release and pull back the same blade.
+- All Rare Blade Trust at S rank and 10600 trust
+- All Poppiswaps at maximum output
+- All Blade weapons reverted back either to their first or weakest forms
 
 ### Items
  **Inclusions**
@@ -91,21 +95,17 @@ Don't go further into the readme, as it contains story spoilers for the game. Yo
 - [x] faster auto atk speed
     - +20% on auto atk 1 and 2, +10% on auto atk 3 
 
-## Blades
+### Blades
 These are listed roughly from worst to best according to the "Official Community Blade Tier List" videos in [this playlist](https://www.youtube.com/playlist?list=PLxTTNkdGoNpoFeHTkje_172d7mNYg7-y-)
 
 **General changes:**
-- All Rare Blade Affinity Charts are complete, even if you release and pull back the same blade.
-- All Rare Blade Trust at S rank and 10600 trust
-- All Poppiswaps at maximum output
-- All Blade weapons reverted back to their first/weakest forms
-- Aggro Up Blade art activates more often and draws more aggro
-- Either aiming to change or improve aggro reduction skills, as apparently the aren't very useful
-
 - Nerfs avoided as much as possible. The focus is to improve lesser blades. Broken Blades will be forever broken
-- [] Blade pull chances normalized accross all 5 Groups
-- [] Blade pull chance are less insane, but the more broken a blade is, the harder it is to pull
-- [] Still unsure what to do about pity blades
+- [ ] Aggro Up Blade art activates more often and draws more aggro
+- [ ] Aiming to improve aggro reduction skills; If they really can't be helped, then changing them altogether
+- [ ] Aiming to make counterspikes useful and relevant
+- [ ] Blade pull chances normalized accross all 5 Groups
+- [ ] Blade pull chance are less insane, but the more broken a blade is, the harder it is to pull
+- [ ] Still unsure what to do about pity blades
 
 
 #### #0 Pyra
