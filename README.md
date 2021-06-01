@@ -36,24 +36,30 @@ Don't go further into the readme, as it contains story spoilers for the game. Yo
 - Rex, Nia and Tora Driver arts have all been set back to lv.1
 - Mórag and Zeke driver arts have all been set to lv.2 and 3 respectively (Might change this to lv.1 and replace it with some WP to compensate) 
 - WP for all weapons of all characters has been set back to 0;
-- 2x WP Gain (Up to debate. Maybe more is better, because we have so many weapons now)
 - Rex, Nia and Tora Driver Charts has been Reset
 - Mòrag and Zeke Driver Overt Affinity charts have 2 rows and 3 rows complete, respectively (Might change this to some SP to compensate)
 - All ideas back at level 1; no elemental bonus damage from the get go!
 - All drivers have 2 item pouches and 3 accessory slots
 
 ## Game Mechanics Modifications
-### Weapon Changes
-- Shield Hammers
-- Twin Rings
-- Catalyst Scimitar
-- Drill Shield
-- Mecha Arms
-- Dual Scythes
-- BitBalls (in the works)
-- Decimation Cannon
+- Battle revenue
+  - [ ] **2x WP Gain;** Exact quantity up to debate. Maybe more would be better, because we have so many weapons now
+  - [ ] **2x SP Gain;** Exact quantity up to debate. Player needs to have chance to fill both Overt and Hidden Driver Affinity Charts throughout the main campaign
+  - [ ] **1/2x Gold Gain;** Exact quantity up to debate. So you can't just buy your way out of difficulty, specaily in early game
+- [ ] **Store Deeds are more expensive;** Exact quantity up to debate. That way you might need to make a choice between buying deeds or pouch items and core chips
+- [ ] **Weapon Changes;** For more details, check the [Weapon Section](https://github.com/drkz4ck/Xenoblade-2-Balance-Mod-/blob/main/WeaponDetails.md)
+  - Shield Hammers
+  - Twin Rings
+  - Catalyst Scimitar
+  - Drill Shield
+  - Mecha Arms
+  - Dual Scythes
+  - BitBalls (in the works)
+  - Decimation Cannon
+- [ ] **Blade pull chances normalized accross all 5 Groups**
+- [ ] **Blade pull chance are less insane**; I'm looking at you, Kos-Mos! But the more broken a blade is, the harder it is to pull
+- Still unsure what to do about pity blades
 
-For more details, check the [Weapon Section](https://github.com/drkz4ck/Xenoblade-2-Balance-Mod-/blob/main/WeaponDetails.md)
 
 ### Blades
 These are listed roughly from worst to best according to the "Official Community Blade Tier List" videos in [this playlist](https://www.youtube.com/playlist?list=PLxTTNkdGoNpoFeHTkje_172d7mNYg7-y-)
@@ -64,10 +70,6 @@ These are listed roughly from worst to best according to the "Official Community
 - [ ] Aiming to improve aggro reduction skills; If they really can't be helped, then changing them altogether
 - [ ] BitBall Blades, except for Crossette, now have a party-wide buff or support skill
 - [ ] Aiming to make counterspikes useful and relevant
-- [ ] Blade pull chances normalized accross all 5 Groups
-- [ ] Blade pull chance are less insane, but the more broken a blade is, the harder it is to pull
-- [ ] Still unsure what to do about pity blades
-
 
 #### #0 Pyra
 - [ ] Aux Cores 2>3
