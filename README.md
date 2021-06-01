@@ -45,6 +45,7 @@ Don't go further into the readme, as it contains story spoilers for the game. Yo
 ## Game Mechanics Modifications
 ### Weapon Types
 **Shield Hammers**
+Hammers now might be faster than the monado, but they really needed some buffs to be even viable. Monado comes with lots of other numerous advantadges over the hammer, so I think it's still in a very good spot.
 - [x] auto atks 1 and 2 have 25% faster animations
 - [x] auto atk 3 has 30% faster animations
 - [x] 20% faster Arts animations
@@ -53,10 +54,10 @@ Don't go further into the readme, as it contains story spoilers for the game. Yo
   - 14>11; 12>9; 11>8 and 8>6
 - [x] Auto atk 1 damage increase 50 > 65
   - auto atk 2 is still a 60% increase and auto atk 3 still a 50% increase (104 and 156, respectively)
-- [ ] Damages Slightly higher than the Chroma Katanas
-- [ ] Critical Values the same as Ether Cannons
+- [x] Damage values of Fiora's Knives; min from 16 to 18 and max from 738 to 826
+- [x] Critical Values of  Ether Cannons; min from 1 to 3 and max from 10 to 20
+  - Higher damage, but lower crit rate than the chroma katana
 - [ ] Additional Weapon Effect, up to debate
-- As a side effect, hammers are slightly faster than the monado, but they really needed some buffs to be even viable. Monado comes with lots of other benefits such as vision, enchant and speed, so I don't think that leaves it in a bad spot.
 
 **Twin Rings**
 - [x] 20% Faster auto atks on Nia
@@ -102,6 +103,7 @@ These are listed roughly from worst to best according to the "Official Community
 - Nerfs avoided as much as possible. The focus is to improve lesser blades. Broken Blades will be forever broken
 - [ ] Aggro Up Blade art activates more often and draws more aggro
 - [ ] Aiming to improve aggro reduction skills; If they really can't be helped, then changing them altogether
+- [ ] BitBall Blades, except for Crossette, now have a party-wide buff or support skill
 - [ ] Aiming to make counterspikes useful and relevant
 - [ ] Blade pull chances normalized accross all 5 Groups
 - [ ] Blade pull chance are less insane, but the more broken a blade is, the harder it is to pull
@@ -112,7 +114,7 @@ These are listed roughly from worst to best according to the "Official Community
 - [ ] Aux Cores 2>3
 - [ ] phys def 5%>
 - [ ] ether def 10%>
-  - She has a hard time dealing with aggro. Increased defenses mitigate that and also reflect abit on her Super Smash Bros. persona
+  - She has a hard time dealing with aggro. Increased defenses mitigate that and also reflect on her Super Smash Bros. persona
 - [ ] increase crit rate?
   - She has a good crit up skill, but low crit rates. Let's fix that to make most out of her skills
 - Purifying Flames: 5% chance to instakill enemies with 20%HP or less when using specials
