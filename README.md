@@ -93,7 +93,6 @@ These are listed roughly from worst to best according to the "Official Community
 ### =E Tier=
 #### #51 Finch
 - shield hammers improved overall
-- [] higher crit chance
 - [] Aux Cores 1 > 3
 - [] Did I do That? chance of activation 20% > 30% 
   - Making the skill more exploitable
@@ -104,7 +103,6 @@ These are listed roughly from worst to best according to the "Official Community
 
 #### #50 Electra
 - shield hammers improved overall
-- higher crit chance
 - [] Aux cores 1 > 3
 - [] Sparky Girl: counterspike ether damage 400% > 550%
   - Attempt to make spikes more useful
@@ -123,7 +121,6 @@ These are listed roughly from worst to best according to the "Official Community
 (I'm very excited about this one)
 - shield hammers improved overall
 - Aux Cores 1 > 3
-- *higher crit chance
 - Got Guts: takes 36% less dmage at low HP; 30% and lower > 50% and lower (I increased the threshold for it to not conflict whith his healing passive, that normaly  activates at the same HP percentage and because being at low HP is too dangerous)
 - Fierce Fervor: damage increase against higher level enemies 80% > 130% (he needs a damage boost, and at just conditional 80% it's hard to keep up with other blades)
 
@@ -163,8 +160,6 @@ These are listed roughly from worst to best according to the "Official Community
 - *some way to keep more aggro/more damage
 
 #### #38 Kassandra
-- Shield Hammers improved overall
-- *+crit rate
 - *more aggro/s
 - *Calamity 30%>50%
 - *Special 3 Secret Desire 30%HP>50%HP
