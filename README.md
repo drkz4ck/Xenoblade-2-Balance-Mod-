@@ -6,20 +6,19 @@ This mod strives to change and tweak several settings aiming for a New Game+ Exp
 ### SPOILERS AHEAD!!!
 Don't go further into the readme, as it contains story spoilers for the game. You've been warned!
 
-## General
+## Save File Changes
 -  Time at 00:00:00
--  Blade pull chances are normalized accross all 5 Groups
--  Still unsure what to do about pity blades
--  Blade chance is less insane, but the more broken a blade is, the harder it is to pull
+- Available Party: Pyra/Mythra, Dromarch, Brihgid, Roc, Pandoria, Ageon, Shulk, Fiora, Elma, Poppibuster and all Poppi forms
+- In new game+ Roc, Ageon, Poppi forms and Blade-Nia aren't available from the start
 
-## Possessions
-#### Inclusions
+### Items
+ **Inclusions**
 - 99 Legendary Core Crystals
 - All Info Items
 - 99 Overdrive Protocols
 - 99 of each WP Item type
 - All Key Items not listed below
-##### Exclusions
+**Exclusions
 - Store Deeds
 - Idea Enhancing items
 - Aux Cores
@@ -27,7 +26,7 @@ Don't go further into the readme, as it contains story spoilers for the game. Yo
 - No Money
 - No Ether Crystals
 
-## Drivers
+### Drivers
 - Every driver is back to level 1, except for Vandham, Malos and Jin's both instances as a pary member due to limitations. Yes, you gotta level up all over again
 - Driver Exp and Bonus Exp are set back to 0;
 - Rex, Nia and Tora Driver arts have all been set back to lv.1
@@ -39,23 +38,58 @@ Don't go further into the readme, as it contains story spoilers for the game. Yo
 - All ideas back at level 1; no elemental bonus damage from the get go!
 - All drivers have 2 item pouches and 3 accessory slots
 
-## Weapon Types
-- **Shield Hammers**
-  - have 25% faster animations
-  - about 50% decrease in art cooldowns
- - 25% higher crit rates
- - As a result, they're slightly faster than the monado, but they really needed some buffs to be even viable. Monado comes with lots of other benefits such as vision, enchant and speed, so I don't think that leaves it in a bad spot.
-- **Catalys Scimitar**
-  - 20% faster auto-attack animations
-  - 25% faster art animations
-- **Drill Shield**
-  - faster animations overall
-  - lower art cooldowns
-- **Dual Scythes** have slightly higher art recharge rate
-- **Bitballs** (not sure yet what to do with this)
-- **Decimation Cannon**
-  - 20% increase in auto attack speed
-  - lower art cooldowns
+## Game Mechanics Modifications
+### Weapon Types
+**Shield Hammers**
+- [x] auto atks 1 and 2 have 25% faster animations
+- [x] auto atk 3 has 30% faster animations
+- [x] 20% faster Arts animations
+  - This might mean the shield art ends sooner; unsure
+- [x] art cooldowns at lv 1 reduced; keeping level progression
+  - 14>11; 12>9; 11>8 and 8>6
+- [x] Auto atk 1 damage increase 50 > 65
+  - auto atk 2 is still a 60% increase and auto atk 3 still a 50% increase (104 and 156, respectively)
+- [ ] Damages Slightly higher than the Chroma Katanas
+- [ ] Critical Values the same as Ether Cannons
+- [ ] Additional Weapon Effect, up to debate
+- As a side effect, hammers are slightly faster than the monado, but they really needed some buffs to be even viable. Monado comes with lots of other benefits such as vision, enchant and speed, so I don't think that leaves it in a bad spot.
+
+**Twin Rings**
+- [x] 20% Faster auto atks on Nia
+- [x] 25% Faster arts on Nia
+  - Butterfly Blade
+  - Jaguar Slash
+- [x] Lower cooldowns on Nia, keeping cooldown reduction progression
+  - Butterfly Blade 14 > 10 at lv.1
+  - Jaguar Slash 11 > 9 at lv.1
+  - Healing Halo 14 > 11 at lv.1
+
+**Catalys Scimitar**
+  - [x] 20% faster auto-attack animations
+  - faster art animations
+    - [x] 30% for water flower
+    - [x] 25% for all others  
+
+**Drill Shield**
+  - [x] 20% Faster auto atk and art speed
+  - Art Cooldowns reduced by 1
+    - [x] Sppining Cutter has an actual cooldown progressn: lv.1 = 7 ; lv.5 = 5
+
+**Mecha Arms**
+- [x] 25% Faster auto atk speed
+- [x] 30% Faster art animations for booming buster and dented shield 
+
+**Dual Scythes** 
+- Reduced Art Cooldowns
+  - [x] Vortex Edge, Muscle Slash and Muscle Uppercut Reduced by 1
+  - [x] Mega Muscle Unchanged 
+  - [x] All others Reduced by 1
+
+**Bitballs** (not sure yet what to do with this  yet)
+
+**Decimation Cannon**
+- [x] faster auto atk speed
+    - +20% on auto atk 1 and 2, +10% on auto atk 3 
 
 ## Blades
 These are listed roughly from worst to best according to the "Official Community Blade Tier List" videos in [this playlist](https://www.youtube.com/playlist?list=PLxTTNkdGoNpoFeHTkje_172d7mNYg7-y-)
@@ -68,46 +102,54 @@ These are listed roughly from worst to best according to the "Official Community
 - Aggro Up Blade art activates more often and draws more aggro
 - Either aiming to change or improve aggro reduction skills, as apparently the aren't very useful
 
-- Available Party: Pyra/Mythra, Dromarch, Brihgid, Roc, Pandoria, Ageon, Shulk, Fiora, Elma, Poppibuster and all Poppi forms
-- In new game+ Roc, Ageon, Poppi forms and Blade-Nia aren't available from the start
-
-- No nerfs were applied, instead the focus is to improve lesser blades. Broken Blades will be forever broken
+- Nerfs avoided as much as possible. The focus is to improve lesser blades. Broken Blades will be forever broken
+- [] Blade pull chances normalized accross all 5 Groups
+- [] Blade pull chance are less insane, but the more broken a blade is, the harder it is to pull
+- [] Still unsure what to do about pity blades
 
 
 #### #0 Pyra
-- Aux Cores 2>3
-- *phys def 5%>; ether def 10%> (it's an issue getting aggro for her, so increased defenses mitigate that and also reflect abit on her Super Smash Bros. persona)
-- *+crit rate 30%, (She has a good crit up skill, but low crit rates. Let's fix that to make most out of her skills)
+- [ ] Aux Cores 2>3
+- [ ] phys def 5%>
+- [ ] ether def 10%>
+  - She has a hard time dealing with aggro. Increased defenses mitigate that and also reflect abit on her Super Smash Bros. persona
+- [ ] increase crit rate?
+  - She has a good crit up skill, but low crit rates. Let's fix that to make most out of her skills
 - Purifying Flames: 5% chance to instakill enemies with 20%HP or less when using specials
-- - This is no very useful as is, and I particularly never noticed if it made any difference during playthrough, so I wante to experimenta bit with it
-- - What if Pyra coul turn this into a good mob control? Her Special 2 has AoE, but non targeted enemies are usually at full HP, so the skill would have to trigger at 100% HP or lower. To compensate, i would the chance of acctivation even further; Not sure if it's a good idea
-- - Another option is to increase enemy HP an maybe chance a little bit to make useful agains enemies you're targeting. Either way it'd still be useless in boss battles
--  *Resplendence: increase blade combo damage by 72%>100% (This is the freaking Aegis)
+  - This is no very useful as is, and I particularly never noticed if it made any difference during playthrough, so I wante to experimenta bit with it
+  - What if Pyra coul turn this into a good mob control? Her Special 2 has AoE, but non targeted enemies are usually at full HP, so the skill would have to trigger at 100% HP or lower. To compensate, i would the chance of acctivation even further; Not sure if it's a good idea
+  - Another option is to increase enemy HP an maybe chance a little bit to make useful agains enemies you're targeting. Either way it'd still be useless in boss battles
+-  [ ] Resplendence: increase blade combo damage by 72%>100%
+  - This is the freaking Aegis
 -  *Flame Edge: Increases critical damage by 50%
 -  *Special 3 Blazing End: +25% crit rate and +85% crit damage; 85%
--  
+
 #### #0.1 Pneuma
-- *Thinking of increasing her activation timer from 60s to at least 90s, maybe even more, as in BoC difficulty she's much harder and less rewarding to pull off
+- Thinking of increasing her activation timer from 60s to at least 90s, maybe even more, as in BoC difficulty she's much harder and less rewarding to pull off
 
 ### =E Tier=
 #### #51 Finch
 - shield hammers improved overall
-- Aux Cores 1 > 3
-- *higher crit chance
-- Did I do That? chance of activation 20% > 30% (Making the skill more exploitable)
-- Doesn't Ring a Bell chance of activation 50% > 70% (Cirsctumstances in which the skill is useful are very strict; makes sense that they have a higher chance of activation)
-- *Replace Surprise skill (Only useful for the very first attack of a battle, if the enemy doesn't spot you
+- [] higher crit chance
+- [] Aux Cores 1 > 3
+- [] Did I do That? chance of activation 20% > 30% 
+  - Making the skill more exploitable
+- [] Doesn't Ring a Bell chance of activation 50% > 70%
+  - Cirsctumstances in which the skill is useful are very strict; makes sense that they have a higher chance of activation
+- Replace Surprise skill. Maybe a damage additive?
+  - Only useful for the very first attack of a battle, if the enemy doesn't spot you
 
 #### #50 Electra
 - shield hammers improved overall
-- Aux cores 1 > 3
-- *higher crit chance
-- Sparky Girl: counterspike ether damage 400% > 550% (Attempt to make spikes more useful)
-- *Zappy Girl draws more aggro
+- higher crit chance
+- [] Aux cores 1 > 3
+- [] Sparky Girl: counterspike ether damage 400% > 550%
+  - Attempt to make spikes more useful
+- Zappy Girl draws more aggro?
 
 #### #49 Dromarch
-- Twin Rings have faster attack speed and less art cooldown on Nia (attempt to make dromarch relevant)
-- *Replace Celestial Gift (Aggro reduction skills are apparently not very useful)
+- Twin Rings have faster attack speed and less art cooldown on Nia, as an attempt to make dromarch relevant
+- Replace Celestial Gift? (Aggro reduction skills are apparently not very useful)
 
 #### #48 Kora
 - Aux Core 2>3
