@@ -8,12 +8,12 @@ Don't go further into the readme, as it contains story spoilers for the game. Yo
 
 ## Save File Changes
 -  Time at 00:00:00
-- Available Party: Pyra/Mythra, Dromarch, Brihgid, Roc, Pandoria, Ageon, Shulk, Fiora, Elma, Poppibuster and all Poppi forms
-- In new game+ Roc, Ageon, Poppi forms and Blade-Nia aren't available from the start
 - All Rare Blade Affinity Charts are complete, even if you release and pull back the same blade.
 - All Rare Blade Trust at S rank and 10600 trust
 - All Poppiswaps at maximum output
 - All Blade weapons reverted back either to their first or weakest forms
+- Available Party: Pyra/Mythra, Dromarch, Brihgid, Roc, Pandoria, Ageon, Shulk, Fiora, Elma, Poppibuster and all Poppi forms
+- In new game+ Roc, Ageon, Poppi forms and Blade-Nia aren't available from the start
 
 ### Items
  **Inclusions**
@@ -45,7 +45,8 @@ Don't go further into the readme, as it contains story spoilers for the game. Yo
 - Battle revenue
   - [ ] **2x WP Gain;** Exact quantity up to debate. Maybe more would be better, because we have so many weapons now
   - [ ] **2x SP Gain;** Exact quantity up to debate. Player needs to have chance to fill both Overt and Hidden Driver Affinity Charts throughout the main campaign
-  - [ ] **1/2x Gold Gain;** Exact quantity up to debate. So you can't just buy your way out of difficulty, specaily in early game
+  - [ ] **0.75x Exp** Gain
+  - [ ] **0.5x Gold Gain;** Exact quantity up to debate. So you can't just buy your way out of difficulty, specaily in early game
 - [ ] **Store Deeds are more expensive;** Exact quantity up to debate. That way you might need to make a choice between buying deeds or pouch items and core chips
 - [ ] **Weapon Changes;** For more details, check the [Weapon Section](https://github.com/drkz4ck/Xenoblade-2-Balance-Mod-/blob/main/WeaponDetails.md)
   - Shield Hammers
