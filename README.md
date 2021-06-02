@@ -55,7 +55,7 @@ Don't go further into the readme, as it contains story spoilers for the game. Yo
 - No Ether Crystals
 
 ### Drivers
-- Every driver is back to level 1, except for Vandham, Malos and Jin's both instances as a pary member due to limitations. Yes, you gotta level up all over again
+- Every driver is back to level 1, except for Vandham, Malos and Jin's both instances as pary members due to limitations. Yes, you gotta level up all over again
 - Driver Exp and Bonus Exp are set back to 0;
 - Rex, Nia and Tora Driver arts have all been set back to lv.1
 - Mórag and Zeke driver arts have all been set to lv.2 and 3 respectively (Might change both  to lv.1 and replace it with some WP to compensate) 
