@@ -26,9 +26,10 @@ Don't go further into the readme, as it contains story spoilers for the game. Yo
   - [ ] **2x SP Gain;** Exact quantity up to debate. Player needs to have chance to fill both Overt and Hidden Driver Affinity Charts throughout the main campaign
   - [ ] **0.75x Exp Gain;**
   - [ ] **0.5x Gold Gain;** Exact quantity up to debate. So you can't just buy your way out of difficulty, specaily in early game
-- **Items are more expensive;** Exact quantity up to debate. You might actually need to make a choice when buying stuff
-  - [ ] Store deeds values multiplied by x
-  - [ ] Other items values multiplied by y
+- **Change in Item prices;** Exact quantity up to debate. You might actually need to make a choice when buying stuff
+  - increase buy price, specially for store deeds
+  - decrease sell price
+  - Reduction of Dev Level discounts
 
 ## Save File Changes
 -  Time at 00:00:00
