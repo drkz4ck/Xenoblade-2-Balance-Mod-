@@ -9,7 +9,7 @@ Don't go further into the readme, as it contains story spoilers for the game. Yo
 ## Main Features
 - **Improvements to many Rare Blades!**; For details, check the [Blade Section](https://github.com/drkz4ck/Xenoblade-2-Balance-Mod-/blob/main/BladeDetails.md)
   - An attempt to make many rare blades relevant and competitive in the main campaign and in the post-game 
-- [ ] **Weapon Improvements;** For details, check the [Weapon Section](https://github.com/drkz4ck/Xenoblade-2-Balance-Mod-/blob/main/WeaponDetails.md)
+- **Weapon Improvements;** For details, check the [Weapon Section](https://github.com/drkz4ck/Xenoblade-2-Balance-Mod-/blob/main/WeaponDetails.md)
 - [ ] **Blade pull chances normalized accross all 5 Groups**
 - [ ] **Blade pull chance are less insane**; I'm looking at you, Kos-Mos! But the more broken a blade is, the harder it is to pull
   - Still unsure what to do about pity blades
