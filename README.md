@@ -39,6 +39,7 @@ Don't go further into the readme, as it contains story spoilers for the game. Yo
 - 99 Overdrive Protocols
 - 99 of each WP Item type
 - All Key Items not listed below
+
 **Exclusions
 - Store Deeds
 - Idea Enhancing items
