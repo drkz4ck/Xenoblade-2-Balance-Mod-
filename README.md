@@ -7,32 +7,24 @@ This mod strives to change and tweak several settings aiming for a New Game+ Exp
 Don't go further into the readme, as it contains story spoilers for the game. You've been warned!
 
 ## Main Features
-- [ ] **Improvements to many Rare Blades!**; For details, check the [Blade Section](https://github.com/drkz4ck/Xenoblade-2-Balance-Mod-/blob/main/BladeDetails.md)
+- **Improvements to many Rare Blades!**; For details, check the [Blade Section](https://github.com/drkz4ck/Xenoblade-2-Balance-Mod-/blob/main/BladeDetails.md)
   - An attempt to make many rare blades relevant and competitive in the main campaign and in the post-game 
 - [ ] **Weapon Improvements;** For details, check the [Weapon Section](https://github.com/drkz4ck/Xenoblade-2-Balance-Mod-/blob/main/WeaponDetails.md)
-  - Shield Hammers
-  - Twin Rings
-  - Catalyst Scimitar
-  - Drill Shield
-  - Mecha Arms
-  - Dual Scythes
-  - BitBalls (in the works)
-  - Decimation Cannon
 - [ ] **Blade pull chances normalized accross all 5 Groups**
 - [ ] **Blade pull chance are less insane**; I'm looking at you, Kos-Mos! But the more broken a blade is, the harder it is to pull
   - Still unsure what to do about pity blades
 - Battle revenue
   - [ ] **2x WP Gain;** Exact quantity up to debate. Maybe more would be better, because we have so many weapons now
   - [ ] **2x SP Gain;** Exact quantity up to debate. Player needs to have chance to fill both Overt and Hidden Driver Affinity Charts throughout the main campaign
-  - [ ] **0.75x Exp Gain;**
-  - [ ] **0.5x Gold Gain;** Exact quantity up to debate. So you can't just buy your way out of difficulty, specaily in early game
+  - [x] **0.75x Exp Gain;**
+  - [x] **0.5x Gold Gain;** Exact quantity up to debate. So you can't just buy your way out of difficulty, specaily in early game
 - **Change in Item prices;** Exact quantity up to debate. You might actually need to make a choice when buying stuff
-  - increase buy price, specially for store deeds
-  - decrease sell price
-  - Reduction of Dev Level discounts
+  - [x] 5x increase in store deeds prices
+  - [ ] decrease sell price
+  - [x] Dev Level discounts cut in half
 
 ## Save File Changes
--  Time at 00:00:00
+- Time at 00:00:00
 - All Rare Blade Affinity Charts are complete, even if you release and pull back the same blade.
 - All Rare Blade Trust at S rank and 10600 trust
 - All Poppiswaps at maximum output
