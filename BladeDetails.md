@@ -40,25 +40,29 @@ These are listed roughly from worst to best according to the "Official Community
 
 #### #50 Electra
 - shield hammers improved overall
-- [] Aux cores 1 > 3
-- [] Sparky Girl: counterspike ether damage 400% > 550%
+- [ ] Aux cores 1 > 3
+- [ ] Sparky Girl: counterspike ether damage 400% > 550%
   - Attempt to make spikes more useful
-- Zappy Girl draws more aggro?
+- [ ] Zappy Girl: increases aggro every second
+  - make it draw more aggro?
 
 #### #49 Dromarch
-- Twin Rings have faster attack speed and less art cooldown on Nia, as an attempt to make dromarch relevant
-- Replace Celestial Gift? (Aggro reduction skills are apparently not very useful)
+- [x] Twin Rings have faster attack speed and less art cooldown on Nia, as an attempt to make dromarch relevant
+- [ ] Celestial Gift: Reduces Blade Combo damage received by 50%.
+  - Replace skill? Very situational and not very useful
 
 #### #48 Kora
-- Aux Core 2>3
-- *Stop Thinking: Enemies stop acting for some time after being hit with a special; Duration 3s> (3s is too short of a time to be really useful)
-- *Walking Joy: Heals when moving; replace with Potion Hoarder? (healing when moving is not very useful, because you cannot attack then)
+- [ ] Aux Core 2>3
+- [ ] Stop Thinking: Enemies stop acting for some time after being hit with a special; Duration 3s>
+  - 3s is too short of a time to be really useful
+- [ ] Walking Joy: Heals when moving;
+  - replace with Potion Hoarder? healing when moving is not very useful, because you cannot attack then
 
 #### #47 Godfrey
 (I'm very excited about this one)
 - shield hammers improved overall
-- Aux Cores 1 > 3
-- Got Guts: takes 36% less dmage at low HP; 30% and lower > 50% and lower (I increased the threshold for it to not conflict whith his healing passive, that normaly  activates at the same HP percentage and because being at low HP is too dangerous)
+- [ ] Aux Cores 1 > 3
+- [ ] Got Guts: takes 36% less dmage at low HP; 30% and lower > 50% and lower (I increased the threshold for it to not conflict whith his healing passive, that normaly  activates at the same HP percentage and because being at low HP is too dangerous)
 - Fierce Fervor: damage increase against higher level enemies 80% > 130% (he needs a damage boost, and at just conditional 80% it's hard to keep up with other blades)
 
 =D Tier=
