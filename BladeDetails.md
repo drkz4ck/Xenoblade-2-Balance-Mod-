@@ -6,23 +6,21 @@ These are listed roughly from worst to best according to the "Official Community
 - [ ] Aggro Up Blade art activates more often and draws more aggro
 - [ ] Aiming to improve aggro reduction skills; If they really can't be helped, then changing them altogether
 - [ ] BitBall Blades, except for Crossette, now have a party-wide buff or support skill
-- [ ] Aiming to make counterspikes useful and relevant
+- [ ] Added +1000% to counterspike skills, making them more useful and relevant
 
 #### #0 Pyra
-- [ ] Aux Cores 2>3
-- [ ] phys def 5%>
-- [ ] ether def 10%>
+- [x] Aux Cores 2 > 3
+- [x] phys def 5% > 10%
+- [x] ether def 10% > 15%
   - She has a hard time dealing with aggro. Increased defenses mitigate that and also reflect on her Super Smash Bros. persona
-- [ ] increase crit rate?
-  - She has a good crit up skill, but low crit rates. Let's fix that to make most out of her skills
-- Purifying Flames: 5% chance to instakill enemies with 20%HP or less when using specials
-  - This is no very useful as is, and I particularly never noticed if it made any difference during playthrough, so I wante to experimenta bit with it
-  - What if Pyra coul turn this into a good mob control? Her Special 2 has AoE, but non targeted enemies are usually at full HP, so the skill would have to trigger at 100% HP or lower. To compensate, i would the chance of acctivation even further; Not sure if it's a good idea
-  - Another option is to increase enemy HP an maybe chance a little bit to make useful agains enemies you're targeting. Either way it'd still be useless in boss battles
-- [ ] Resplendence: increase blade combo damage by 72%>100%
+- [x] Resplendence: blade combo damage +72% > +100%
   - This is the freaking Aegis
-- *Flame Edge: Increases critical damage by 50%
-- *Special 3 Blazing End: +25% crit rate and +85% crit damage; 85%
+- [x] Flame Edge: critical damage +50% > +65%
+- [x] Special 3 - Blazing End special effect: crit rate +25 > +30
+- [ ] Improve *Purifying Flames*: 5% chance to instakill common enemies with 20%HP or less when using specials
+  - I particularly never noticed if it made any difference during playthrough
+  - Option 1: Mob control; Non targeted enemies are usually at full HP, so the skill would have to trigger at 100% HP or lower, with reduced chance of activation to compensate.
+  - Option 2: Increase minimal enemy HP and activation chance to make it trigger more often. It'd still be useless in boss battles
 
 #### #0.1 Pneuma
 - Thinking of increasing her activation timer from 60s to at least 90s, maybe even more, as in BoC difficulty she's much harder and less rewarding to pull off
@@ -35,18 +33,18 @@ These are listed roughly from worst to best according to the "Official Community
   - Making the skill more exploitable
 - [ ] Doesn't Ring a Bell chance of activation 50% > 70%
   - Cirsctumstances in which the skill is useful are very strict; makes sense that they have a higher chance of activation
-- Replace Surprise skill. Maybe a damage additive?
+- [ ] Replace Surprise skill. Maybe a damage additive?
   - Only useful for the very first attack of a battle, if the enemy doesn't spot you
 
 #### #50 Electra
 - shield hammers improved overall
 - [ ] Aux cores 1 > 3
-- [ ] Sparky Girl: counterspike ether damage 400% > 550%
+- [ ] Sparky Girl: counterspike ether damage 400% > 1400%
   - Attempt to make spikes more useful
-- [ ] Zappy Girl: increases aggro every second
-  - make it draw more aggro?
+- [ ] Zappy Girl: increases aggro every second 30/s > 175/s
 
 #### #49 Dromarch
+- [ ] Aux Cores 1 > 3
 - [x] Twin Rings have faster attack speed and less art cooldown on Nia, as an attempt to make dromarch relevant
 - [ ] Celestial Gift: Reduces Blade Combo damage received by 50%.
   - Replace skill? Very situational and not very useful
