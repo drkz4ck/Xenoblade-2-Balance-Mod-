@@ -1,6 +1,7 @@
 ## Improved Weapons
 **Shield Hammers**
 
+All Drivers:
 Hammers now might be faster than the monado, but they really needed some buffs to be even viable. Monado comes with lots of other numerous advantadges over the hammer, so I think it's still in a very good spot.
 - [x] auto atks 1 and 2 have 25% faster animations
 - [x] auto atk 3 has 30% faster animations
@@ -15,17 +16,17 @@ Hammers now might be faster than the monado, but they really needed some buffs t
   - Higher damage, but lower crit rate than the chroma katana
 - [ ] Additional Weapon Effect, up to debate
 
-**Twin Rings** (And Clones)
+**Twin Rings (And Clones)**
 
 Twin Rings and their clones are improved specifficaly for Nia, as an effort both to make Dromarch more relevant for her and Nia a more balanced Driver, with more solid weapon types to choose from.
 
-The following changes apply to the Twin Rings, Infinty Fans, Brilliant TwinBlades, Knives and Dual Swords for Nia:
-- [ ] 20% Faster auto atks
+Twin Rings, Infinty Fans, Brilliant TwinBlades, Knives and Dual Swords for Nia:
+- [x] 20% Faster auto atks
   - Obrona becomes a speed demon on Nia
-- [ ] 25% Faster arts on Nia
+- [x] 25% Faster arts
   - Butterfly Blade, Swallowtail and other Break arts
   - Jaguar Slash, Cheetah Scratch, Scarecrow, Avian Spin and Sword Slap
-- [ ] Lower cooldowns on Nia, keeping cooldown reduction progression
+- [x] Lower cooldowns, keeping cooldown reduction progression
   - Break arts: -4 at lv.5
   - Healing art: -3 at lv.5
   - AoE that hits ahead: unchanged
@@ -61,22 +62,32 @@ Made the weapo a little faster, as an effort to make Poppi qT more relevant.
 
 **MegaLance**
 
-- [ ] Art ratios improved for Rex
-- [ ] Art cooldowns improved for Rex
-- [ ] Zeke's Smash art animation is a bit faster
+Rex:
+- [x] Feral Spin Effect: +damage agains insects > +damage to toppled enemies
+- [x] Strong Horn damage increase: lv.1 160 > 190; lv.5 280 > 310
+- [x] Heavy Hitter damage increase: lv.1 150 > 170; lv.5 230 > 250
+- [x] Cooldown reduced by 1
+  - Feral Spin
+  - Power Spike
+
+Zeke:
+- [x] Smash art is 20% faster
 
 **Ether Cannon**
 
+Nia:
 - [ ] Nia has slightly faster animations
-- [ ] Niaa has higher art ratios
+- [ ] Nia has higher art ratios
 
 **Decimation Cannon**
 
+All Drivers:
 Faster attacks will captalize on perdido's main gimmick, and also differentiate him a bit from ether cannons.
 - [x] Faster auto atk speed
     - +20% on auto atk 1 and 2, +10% on auto atk 3 
-- Lower art cooldowns, maybe?
+- [ ] Lower art cooldowns, maybe?
 
 **Knuckle Claws**
 
+Nia:
 - [ ] Higher Art Ratios for Nia
