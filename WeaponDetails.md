@@ -1,4 +1,26 @@
-## Improved Weapons
+## Improving Weapons
+There are 8 major weapon types, common to 4 different drivers. I tried ballancing driver efectiveness in battle by dividing them into 4 different levels of weapon proficiency. Originally, it looks like this:
+
+| Original | GreatAxe | MegaLance | E.Cannon | S.Hammer | C.Katana | T.Rings | BitBall | K.Claws |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| Best Driver | Zeke | Morag | Zeke | Morag | Morag | Rex | Zeke | Zeke |
+| Good Driver | Morag | Rex | Nia | Zeke | Rex | Morag | Nia | Nia |
+| Ok Driver | Rex | Nia | Rex | Rex | Nia | Nia | Morag | Rex |
+| Worst Driver | Nia | Zeke | Morag | Nia | Zeke | Zeke | Rex | Morag |
+
+As is, Zeke is the best driver for 4 different weapons, and Nia is not the best Driver for any Weapons.
+Upon change, I strived for an avarege of 2 weapons in each proficiency level for each driver, reaching the following chart
+
+|    Updated   | GreatAxe | MegaLance | E.Cannon | S.Hammer | C.Katana | T.Rings | BitBall | K.Claws |
+|:------------:|:--------:|:---------:|:--------:|:--------:|:--------:|:-------:|:-------:|:-------:|
+|  Best Driver |   Zeke   |    Rex↑   |   Nia↑   |   Morag  |    Nia   |  Nia↑↑  |   Zeke  |   Nia   |
+|  Good Driver |   Morag  |   Morag↓  |   Zeke↓  |   Zeke   |    Rex   |   Rex↓  |   Nia   |   Zeke  |
+|   Ok Driver  |    Rex   |    Nia    |    Rex   |    Rex   |    Nia   |  Morag↓ |  Morag  |   Rex   |
+| Worst Driver |    Nia   |    Zeke   |   Morag  |    Nia   |   Zeke   |   Zeke  |   Rex   |  Morag  |
+
+Just by improving a few drivers and having them ascend the list, the chart looks much more balanced
+
+## Details
 **Shield Hammers**
 
 All Drivers:
