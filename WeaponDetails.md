@@ -13,7 +13,7 @@ Upon change, I strived for an avarege of 2 weapons in each proficiency level for
 
 |    Updated   | GreatAxe | MegaLance | E.Cannon | S.Hammer | C.Katana | T.Rings | BitBall | K.Claws |
 |:------------:|:--------:|:---------:|:--------:|:--------:|:--------:|:-------:|:-------:|:-------:|
-|  Best Driver |   Zeke   |    Rex↑   |   Nia↑   |   Morag  |    Nia   |  Nia↑↑  |   Zeke  |   Nia   |
+|  Best Driver |   Zeke   |    Rex↑   |   Nia↑   |   Morag  |    Nia   |  Nia↑↑  |   Zeke  |   Nia↑  |
 |  Good Driver |   Morag  |   Morag↓  |   Zeke↓  |   Zeke   |    Rex   |   Rex↓  |   Nia   |   Zeke  |
 |   Ok Driver  |    Rex   |    Nia    |    Rex   |    Rex   |    Nia   |  Morag↓ |  Morag  |   Rex   |
 | Worst Driver |    Nia   |    Zeke   |   Morag  |    Nia   |   Zeke   |   Zeke  |   Rex   |  Morag  |
