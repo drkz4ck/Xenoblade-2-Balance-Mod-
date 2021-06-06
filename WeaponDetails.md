@@ -88,18 +88,24 @@ Vandham:
   - Mega Muscle Unchanged
   - All others Reduced by 1
 
-**MegaLance**
+**Lances**
 
 Rex:
-- [x] Feral Spin Effect: +damage agains insects > +damage to toppled enemies
-- [x] Strong Horn damage increase: lv.1 160 > 190; lv.5 280 > 310
+- [x] Feral Spin and Dust Up Special Effect change
+  - +damage agains insects > +damage to toppled enemies
+- [x] Strong Horn and Earth Splitter damage increase
+  - lv.1 160 > 190; lv.5 280 > 310
 - [x] Heavy Hitter damage increase: lv.1 150 > 170; lv.5 230 > 250
 - [x] Cooldown reduced by 1
-  - Feral Spin
-  - Power Spike
+  - Mega Lance
+    - Power Spike
+    - Feral Spin
+  - Cobra Bardiche
+    - Powerquake
+    - Dust Up
 
 Zeke:
-- [x] Smash art is 20% faster
+- [x] Smash arts are 20% faster
 
 **Ether Cannon**
 
@@ -108,11 +114,18 @@ Nia:
 - [ ] Higher art ratios
 
 **Decimation Cannon**
+Faster attacks will captalize on perdido's main gimmick, and also differentiate him a bit from ether cannons.
 
-All Drivers:
+Nia:
+- [ ] Faster auto atk speed
+    - +30% on auto atk 1 and 2, +20% on auto atk 3
+
+Other Drivers:
 Faster attacks will captalize on perdido's main gimmick, and also differentiate him a bit from ether cannons.
 - [x] Faster auto atk speed
-    - +20% on auto atk 1 and 2, +10% on auto atk 3 
+    - +20% on auto atk 1 and 2, +10% on auto atk 3
+
+All Drivers:
 - [ ] Lower art cooldowns, maybe?
 
 **Knuckle Claws**
