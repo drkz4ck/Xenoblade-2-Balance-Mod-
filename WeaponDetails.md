@@ -21,6 +21,7 @@ Twin Rings and their clones are improved specifficaly for Nia, as an effort both
 
 The following changes apply to the Twin Rings, Infinty Fans, Brilliant TwinBlades, Knives and Dual Swords for Nia:
 - [ ] 20% Faster auto atks
+  - Obrona becomes a speed demon on Nia
 - [ ] 25% Faster arts on Nia
   - Butterfly Blade, Swallowtail and other Break arts
   - Jaguar Slash, Cheetah Scratch, Scarecrow, Avian Spin and Sword Slap
@@ -34,16 +35,16 @@ The following changes apply to the Twin Rings, Infinty Fans, Brilliant TwinBlade
 
 These modifications are part of an effort to make Blade-Nia more interesting to use. Auto attacks speed is to capitalize on her heal on auto atk skill, and arts were just too damn slow, specially compared to other options. Check more details on Blade-Nia changes on the Blade Section.
   - [x] 20% faster auto-attack animations
-  - faster art animations
-    - [x] 30% for water flower
-    - [x] 25% for all others  
+  - [x] faster art animations
+    - 30% for water flower
+    - 25% for all others  
 
 **Drill Shield**
 
 Drill Shield suffers a similar problem that Hammers do, that is slow animations. Drill Shields need much less improvements all around because of Poppi's is highly customizable
   - [x] 20% Faster auto atk and art speed
-  - Art Cooldowns reduced by 1
-    - [x] Sppining Cutter has an actual cooldown progressn: lv.1 = 7 ; lv.5 = 5
+  - [x] Art Cooldowns reduced by 1
+    - Sppining Cutter has an actual cooldown progressn: lv.1 = 7 ; lv.5 = 5
 
 **Mecha Arms**
 
@@ -52,17 +53,30 @@ Made the weapo a little faster, as an effort to make Poppi qT more relevant.
 - [x] 30% Faster art animations for booming buster and dented shield 
 
 **Dual Scythes** 
-- Reduced Art Cooldowns
-  - [x] Vortex Edge, Muscle Slash and Muscle Uppercut Reduced by 1
-  - [x] Mega Muscle Unchanged 
-  - [x] All others Reduced by 1
 
-**Bitballs**
-- not sure yet what to do with this yet
+- [x] Reduced Art Cooldowns
+  - Vortex Edge, Muscle Slash and Muscle Uppercut Reduced by 1
+  - Mega Muscle Unchanged 
+  - All others Reduced by 1
+
+**MegaLance**
+
+- [ ] Art ratios improved for Rex
+- [ ] Art cooldowns improved for Rex
+- [ ] Zeke's Smash art animation is a bit faster
+
+**Ether Cannon**
+
+- [ ] Nia has slightly faster animations
+- [ ] Niaa has higher art ratios
 
 **Decimation Cannon**
 
 Faster attacks will captalize on perdido's main gimmick, and also differentiate him a bit from ether cannons.
 - [x] Faster auto atk speed
     - +20% on auto atk 1 and 2, +10% on auto atk 3 
-- Lower art cooldowns, mabe?
+- Lower art cooldowns, maybe?
+
+**Knuckle Claws**
+
+- [ ] Higher Art Ratios for Nia
