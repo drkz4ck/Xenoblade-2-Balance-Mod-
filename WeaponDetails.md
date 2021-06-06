@@ -55,9 +55,15 @@ Made the weapo a little faster, as an effort to make Poppi qT more relevant.
 
 **Dual Scythes** 
 
+Rex:
 - [x] Reduced Art Cooldowns
-  - Vortex Edge, Muscle Slash and Muscle Uppercut Reduced by 1
-  - Mega Muscle Unchanged 
+  - Vortex Edge reduced by 1
+  - All others Reduced by 2
+
+Vandham:
+- [x] Reduced Art Cooldowns
+  - Fast Twitch educed by 2
+  - Mega Muscle Unchanged
   - All others Reduced by 1
 
 **MegaLance**
@@ -76,8 +82,8 @@ Zeke:
 **Ether Cannon**
 
 Nia:
-- [ ] Nia has slightly faster animations
-- [ ] Nia has higher art ratios
+- [ ] 10% faster attacks and arts
+- [ ] Higher art ratios
 
 **Decimation Cannon**
 
@@ -90,4 +96,4 @@ Faster attacks will captalize on perdido's main gimmick, and also differentiate 
 **Knuckle Claws**
 
 Nia:
-- [ ] Higher Art Ratios for Nia
+- [ ] Higher Art Ratios
