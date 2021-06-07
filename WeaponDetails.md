@@ -153,4 +153,4 @@ Nia:
   - 10% faster
   - Topple effect
 - [ ] **Raptor Beat**, Buffalo Beat and Universal Beat
-  - 30% faster
+  - 35% faster
