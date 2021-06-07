@@ -126,21 +126,22 @@ Nia:
 Faster auto-attacks will captalize on perdido's main gimmick, and also differentiate him a bit from ether cannons.
 
 Nia:
-- [ ] Faster animations
-  - auto attacks 1&2: +30% speed
-  - auto attack 3: +20% speed
+- [x] Faster animations
+  - auto attacks 1&2: +35% speed
+  - auto attack 3: +25% speed
   - Surprise Shot: +10% speed
   - Phosphorecent Flare: +30% speed
   - Porcupine Blow: +10% speed  
-- [ ] Higher art ratios
+- [x] Higher Art ratios 
+  - Surprise Shot: lv.1 180 > 220; lv.5 340 > 360; M.Affinity 360 > 400
+  - Porcupine Blow:  lv.1 300 > 340; lv.5 460 > 500; M.Affinity 500 > 540
+  - Mayfly: lv.1 220 > 250; lv.5 380 > 410; M.Affinity 440 > 470
+  - Phosphorecent Flare: lv.1 108 > 130; lv.5 190 > 210; M.Affinity 216 > 230
 
 Other Drivers:
 - [x] Faster animations
   - auto attacks 1&2: +20% speed
   - auto attack 3: +10% speed
-
-All Drivers:
-- [ ] Lower art cooldowns, maybe?
 
 **Knuckle Claws**
 
