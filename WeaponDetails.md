@@ -116,11 +116,11 @@ Nia:
   - Leopard Blow: +15% speed
   - Pulse Fire: +30% speed
 
-- [ ] Higher art ratios
-  - Breach Shot:
-  - Pulse Fire: 
-  - Cattle Driver: 
-  - Leopard Blow:  
+- [x] Higher art ratios
+  - Breach Shot: lv.1 180 > 220; lv.5 340 > 360; M.Affinity 360 > 400
+  - Leopard Blow:  lv.1 300 > 340; lv.5 460 > 500; M.Affinity 500 > 540
+  - Cattle Driver: lv.1 220 > 250; lv.5 380 > 410; M.Affinity 440 > 470
+  - Pulse Fire: lv.1 108 > 130; lv.5 190 > 210; M.Affinity 216 > 230
 
 **Decimation Cannon**
 Faster auto-attacks will captalize on perdido's main gimmick, and also differentiate him a bit from ether cannons.
