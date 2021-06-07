@@ -146,11 +146,16 @@ Other Drivers:
 **Knuckle Claws (and Clones)**
 
 Nia:
-- [ ] **Jackal Claw**, Lion Claw and Sabertooth Slash
+- [x] **Jackal Claw**, Lion Claw and Sabertooth Slash
   - 30% faster
-- [ ] **Deadly Twister**, Raging Screw and Whirlwind
+- [x] **Deadly Twister**, Raging Screw and Whirlwind
   - Hits twice
   - 10% faster
   - Topple effect
-- [ ] **Raptor Beat**, Buffalo Beat and Universal Beat
+- [x] **Raptor Beat**, Buffalo Beat and Universal Beat
   - 35% faster
+
+**Greataxe**
+- [x] Nia Auto attacks: +5% speed
+- [x] Nia Topple art: +10% speed
+- [x] Rex Launch art: +10% speed
