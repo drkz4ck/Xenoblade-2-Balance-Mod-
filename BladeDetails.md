@@ -8,7 +8,7 @@ These are listed roughly from worst to best according to the "Official Community
 - [ ] BitBall Blades, except for Crossette, now have a party-wide buff or support skill
 - [ ] Added +1000% to counterspike skills, making them more useful and relevant
 
-#### #0 Pyra
+## #0 Pyra
 - [x] Aux Cores 2 > 3
 - [x] phys def 5% > 10%
 - [x] ether def 10% > 15%
@@ -22,7 +22,7 @@ These are listed roughly from worst to best according to the "Official Community
   - Option 1: Mob control; Non targeted enemies are usually at full HP, so the skill would have to trigger at 100% HP or lower, with reduced chance of activation to compensate.
   - Option 2: Increase minimal enemy HP and activation chance to make it trigger more often. It'd still be useless in boss battles
 
-#### #0.1 Pneuma
+## #0.1 Pneuma
 - Thinking of increasing her activation timer from 60s to at least 90s, maybe even more, as in BoC difficulty she's much harder and less rewarding to pull off
 
 ### =E Tier=
