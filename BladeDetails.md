@@ -65,39 +65,39 @@ These are listed roughly from worst to best according to the "Official Community
 
 ## =D Tier=
 
-#### #46 Floren
+### #46 Floren
 - Aux Cores 2 > 3
 - *Coming of Spring 25% > 50%
 - White Lillies (aggro reduction) replaced; thinking of Headwind (20% dmg reduction for the party)*
 
-#### #45 Vess
+### #45 Vess
 - phys def 0% > 5%
 - *Space Tea Time 20% > 30%
 - *Not the Plan 15% > 25%
 - *Sympathy change it for something else*
 
-#### #44 Dahlia
+### #44 Dahlia
 *Not sure what to do with her yet
 
-#### #43 Ageon
+### #43 Ageon
 - Aux Cores 2> 3
 - *someway to help him draw and keep aggro
 
-#### #42 Ursula
+### #42 Ursula
 - Aux Cores 1>3
 - Snow Charm: party wide-shield at max affinity; Shield damage 60% Max HP> 100% Max HP (This is all she's got going for her, and it's mostly only activated once per battle)
 - *Hide and Seek (aggro reduction)
 
-#### #41 Boreas
+### #41 Boreas
 - Aux Cores 1>3
 - *some way to keep more aggro/more damage
 
-#### #39 Kassandra
+### #39 Kassandra
 - *more aggro/s
 - *Calamity 30%>50%
 - *Special 3 Secret Desire 30%HP>50%HP
 
-#### #38 Perdido
+### #38 Perdido
 - Aux Cores 2>3
 - physical and ether defenses 5%>10%
 - improved attack speed (detailed in weapon section, his main gimmick is improved auto attacks, so I thought a nudge in that direction would make him more relevant)
@@ -116,7 +116,7 @@ These are listed roughly from worst to best according to the "Official Community
 ### #35 Obrona
 *Not sure what to do with her
 
-#### #34 Poppi alpha
+### #34 Poppi alpha
 - improved atk and art animations
 - reduced art cooldowns (She is a great blade, but suffered from the same main problem as the shield hammers)
 
