@@ -143,7 +143,14 @@ Other Drivers:
   - auto attacks 1&2: +20% speed
   - auto attack 3: +10% speed
 
-**Knuckle Claws**
+**Knuckle Claws (and Clones)**
 
 Nia:
-- [ ] Higher Art Ratios
+- [ ] **Jackal Claw**, Lion Claw and Sabertooth Slash
+  - 30% faster
+- [ ] **Deadly Twister**, Raging Screw and Whirlwind
+  - Hits twice
+  - 10% faster
+  - Topple effect
+- [ ] **Raptor Beat**, Buffalo Beat and Universal Beat
+  - 30% faster
