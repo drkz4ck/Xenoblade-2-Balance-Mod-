@@ -110,7 +110,12 @@ Zeke:
 **Ether Cannon**
 
 Nia:
-- [ ] 10% faster attacks and arts
+- [ ] 10faster and arts
+  - auto attacks: +10% speed
+  - Breach Shot: +10% speed
+  - Pulse Fire: +10% speed
+  - Cattle Driver: +10% speed
+  - Leopard Blow: +10% speed  
 - [ ] Higher art ratios
 
 **Decimation Cannon**
@@ -121,7 +126,6 @@ Nia:
     - +30% on auto atk 1 and 2, +20% on auto atk 3
 
 Other Drivers:
-Faster attacks will captalize on perdido's main gimmick, and also differentiate him a bit from ether cannons.
 - [x] Faster auto atk speed
     - +20% on auto atk 1 and 2, +10% on auto atk 3
 
