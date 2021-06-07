@@ -110,11 +110,12 @@ Zeke:
 **Ether Cannon**
 
 Nia:
-- [ ] Faster animations
-  - auto attacks: +10% speed
+- [x] Faster animations
+  - auto attacks: +15% speed
   - Breach Shot: +20% speed
+  - Leopard Blow: +15% speed
   - Pulse Fire: +30% speed
-  - Leopard Blow: +15% speed  
+
 - [ ] Higher art ratios
   - Breach Shot:
   - Pulse Fire: 
@@ -128,9 +129,9 @@ Nia:
 - [ ] Faster animations
   - auto attacks 1&2: +30% speed
   - auto attack 3: +20% speed
-  - Breach Shot: +10% speed
-  - Pulse Fire: +30% speed
-  - Leopard Blow: +10% speed  
+  - Surprise Shot: +10% speed
+  - Phosphorecent Flare: +30% speed
+  - Porcupine Blow: +10% speed  
 - [ ] Higher art ratios
 
 Other Drivers:
