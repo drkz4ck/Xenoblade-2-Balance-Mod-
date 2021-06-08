@@ -9,19 +9,24 @@ These are listed roughly from worst to best according to the "Official Community
 - [ ] Added +1000% to counterspike skills, making them more useful and relevant
 
 ### #0 Pyra
+**Status**
 - [x] Aux Cores 2 > 3
 - [x] phys def 5% > 10%
 - [x] ether def 10% > 15%
   - She has a hard time dealing with aggro. Increased defenses mitigate that and also reflect on her Super Smash Bros. persona
+
+**Battle Skills**
+- [ ] **Purifying Flames**: 5% chance to instakill common enemies with 20%HP or less when using specials
+  - I particularly never noticed if it made any difference during playthrough
+    - Option 1: Mob control; Non targeted enemies are usually at full HP, so the skill would have to trigger at 100% HP or lower, with reduced chance of activation to compensate.
+    - Option 2: Increase minimal enemy HP and activation chance to make it trigger more often. Still be useless in boss battles;
+    - Option 3: Specials can purge enemy rage status;
 - [x] Resplendence: blade combo damage +72% > +100%
   - This is the freaking Aegis
 - [x] Flame Edge: critical damage +50% > +65%
-- [x] Special 3 - Blazing End special effect: crit rate +25 > +30
-- [ ] Improve *Purifying Flames*: 5% chance to instakill common enemies with 20%HP or less when using specials
-  - I particularly never noticed if it made any difference during playthrough
-  - Option 1: Mob control; Non targeted enemies are usually at full HP, so the skill would have to trigger at 100% HP or lower, with reduced chance of activation to compensate.
-  - Option 2: Increase minimal enemy HP and activation chance to make it trigger more often. It'd still be useless in boss battles
 
+**Specials**
+- [x] Special 3 - Blazing End special effect: crit rate +25 > +30
 ### #0.1 Pneuma
 - Thinking of increasing her activation timer from 60s to at least 90s, maybe even more, as in BoC difficulty she's much harder and less rewarding to pull off
 
