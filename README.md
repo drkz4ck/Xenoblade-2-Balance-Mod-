@@ -11,10 +11,10 @@ Don't go further into the readme, as it contains story spoilers for the game. Yo
   - An attempt to make many rare blades relevant and competitive in the main campaign and in the post-game 
 - **Weapon Improvements;** For details, check the [Weapon Section](https://github.com/drkz4ck/Xenoblade-2-Balance-Mod-/blob/main/WeaponDetails.md)
 - **Driver Balancing**
-  - [ ] Nia Affinity Skill: Hard Hitter
-    - Effect change: +20% Break Duration > +20% Topple Duration
-  - [ ] Nia Affinity Skill: Chance Recovery
-    - Replaced with Critical Pro: +10% critical damage
+  - [ ] Nia Affinity Skill: Hard Hitter https://xenoblade.github.io/xb2/bdat/common/BTL_Skill_Dr.html#35
+    - Effect change: +20% Break Duration > +15% Topple Duration (1271, 1334)
+  - [ ] Nia Affinity Skill: Chance Recovery https://xenoblade.github.io/xb2/bdat/common/BTL_Skill_Dr_Table02.html#16
+    - Replaced with Critical Pro(154): +10% critical damage
 
 - [ ] **Blade pull chances normalized accross all 5 Groups**
 - [ ] **Blade pull chance are less insane**; I'm looking at you, Kos-Mos! But the more broken a blade is, the harder it is to pull
