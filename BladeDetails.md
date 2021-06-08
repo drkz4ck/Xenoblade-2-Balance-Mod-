@@ -10,28 +10,28 @@ These are listed roughly from worst to best according to the "Official Community
 
 ### #0 Pyra
 **Status**
-- [x] Aux Cores 2 > 3
-- [x] phys def 5% > 10%
-- [x] ether def 10% > 15%
+- [x] Aux Cores Slots:~~2~~ 3
+- [x] phys def ~~5%~~ 10%
+- [x] ether def ~~10%~~ 15%
   - She has a hard time dealing with aggro. Increased defenses mitigate that and also reflect on her Super Smash Bros. persona
 
 **Battle Skills**
-- [ ] **Purifying Flames**: 5% chance to instakill common enemies with 20%HP or less when using specials
+- [ ] **Purifying Flames**: Effect change https://xenoblade.github.io/xb2/bdat/common/BTL_Skill_Bl.html#1
   - I particularly never noticed if it made any difference during playthrough
-    - Option 1: Mob control; Non targeted enemies are usually at full HP, so the skill would have to trigger at 100% HP or lower, with reduced chance of activation to compensate.
-    - Option 2: Increase minimal enemy HP and activation chance to make it trigger more often. Still be useless in boss battles;
-    - Option 3: Specials can purge enemy rage status;
-- [x] **Resplendence**: further  blade combo damage increase +72% > +100%
-- [x] **Flame Edge**: further critical damage increase +50% > +65%
+  - ~~Specials have a chance to instakill common enemies with 20%HP or less Specials have a chance~~ Specials have a chance to purge enemy rage status (3713~3717)
+    - Lv.1: 60% chance
+    - Lv.5 and Max Affinity: 100% chance
+- [x] **Resplendence**: ~~+72%~~ +100% blade combo damage increase
+- [x] **Flame Edge**: ~~+50%~~ +65% critical damage increase
 
 **Specials**
 - [ ] **lv.1 Flame Nova**: Now has a 5-5 AoE
 - [ ] **lv.2 Prominence Revolt**: 
-- [x] **lv.3 Blazing End**: Now has a 5-5 AoE special effect: crit rate +25 > +30
+- [x] **lv.3 Blazing End** ~~+25%~~ +30% crit chance modifier
 - [ ] **lv.4 Burning Sword**: 
-- [ ] **lv.4-EX Union Sword**: Now deals the damage of both blades' lv.4 Special (1150 + 1150 = 2300)
+- [ ] **lv.4-EX Union Sword**: Now deals the damage of both blades' lv.4 Special (~~1500~~ 1150+1150 = 2300 damage)
 ### #0.1 Pneuma
-- Thinking of increasing her activation timer from 60s to at least 90s, maybe even more, as in BoC difficulty she's much harder and less rewarding to pull off
+- [ ] Thinking of increasing her activation timer from 60s to at least 90s, maybe even more, as in BoC difficulty she's much harder and less rewarding to pull off
 
 ## =E Tier=
 ### #51 Electra
