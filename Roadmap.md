@@ -7,8 +7,8 @@
 - [x] Nia's Driver Skills
 - Work on Blades
   - [ ] Pyra+
-  - [ ] E Tier (5 blades)
-  - [ ] D Tier (8 blades)
+  - [ ] E Tier: Electra, Dromarch, Finch, Kora and Godfrey
+  - [ ] D Tier Floren, Vess, Dahlia, Agaeon, Ursula, Boreas, Kasandra, Perdido
   - [ ] C Tier (14 blades)
   - [ ] B Tier (11 blades)
 - If needed
