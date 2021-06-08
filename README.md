@@ -1,7 +1,8 @@
-# Xenoblade Chronicles 2 Balance Mod (attempt)
-Enjoy Xenoblade Chronicles 2 again, in a challenging and rewarding experience
+# X2+
+## A Xenoblade Chronicles 2 New-Game-Plus-oriented balance mod
+Enjoy Xenoblade Chronicles 2 again, in a challenging and rewarding experience!
 
-This mod strives to change and tweak several settings aiming for a New Game+ Experince that can be a challenge from the very start, while keeping the more grindy aspects of the game at bay.
+This mod strives to change and tweak several settings aiming for a New Game+ Experince that can be a challenge from the very start, while keeping the more grindy aspects of the game at bay. Intended for use with Bringer of Chaos difficulty.
 
 ### SPOILERS AHEAD!!!
 Don't go further into the readme, as it contains story spoilers for the game. You've been warned!
