@@ -32,11 +32,16 @@ These are listed roughly from worst to best according to the "Official Community
 
 ## =E Tier=
 ### #51 Electra
+**Status**
 - shield hammers improved overall
 - [ ] Aux cores 1 > 3
+
+**Battle Skills**
 - [ ] Sparky Girl: counterspike ether damage 400% > 1400%
   - Attempt to make spikes more useful
 - [ ] Zappy Girl: increases aggro every second 30/s > 175/s
+
+**Specials**
 
 ### #50 Dromarch
 - [ ] Aux Cores 1 > 3
