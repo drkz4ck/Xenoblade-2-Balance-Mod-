@@ -24,7 +24,7 @@ These are listed roughly from worst to best according to the "Official Community
 - [x] **Flame Edge**: critical damage increase. Scales from +10% to ~~+50%~~ +65%.
 
 **Specials**
-- [x] **lv.1 Flame Nova**: ~~Hits a single target~~ a 5-5m AoE around the user
+- [x] **lv.1 Flame Nova**: ~~Hits a single target~~ a 5 AoE around the user
 - [ ] **lv.2 Prominence Revolt**: 
 - [x] **lv.3 Blazing End** ~~+25%~~ +30% crit chance
 - [x] **lv.4 Burning Sword**: ~~+20%~~ +25% crit chance
