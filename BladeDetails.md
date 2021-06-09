@@ -36,14 +36,39 @@ These are listed roughly from worst to best according to the "Official Community
 ### #51 Electra
 **Status**
 - shield hammers improved overall
-- [ ] Aux cores 1 > 3
+- [ ] Aux Core Slots:~~1~~ 3
 
 **Battle Skills**
-- [ ] Sparky Girl: counterspike ether damage 400% > 1400%
+- [ ] **Clangy Girl**
+- [ ] **Zappy Girl**: increases aggro every second 30/s > 175/s
+  - Aggro is damage/2
+  - At high levels you deal hundreds thousands of damage
+  - you lose aggro at a rate of -75/s
+- [ ] **Sparky Girl**: counterspike ether damage 400% > 1400%
   - Attempt to make spikes more useful
-- [ ] Zappy Girl: increases aggro every second 30/s > 175/s
+  - Counters on hit
 
 **Specials**
+- [ ] lv.1 **Bang-Bang Bound**
+  - Below Average damage
+  - 3 hits
+  - small radiu
+  - extra damage to toppled, but cant take advantage because speed
+  - too slow!
+- [ ] lv.2 **Shocking Assault**
+  - single hit, awful for chain attacks
+  - ether base
+  - not terrible damage ratio (605 at max affinity)
+  - slow
+  - extra damage to launched, but cant take advantage because speed
+- [ ] lv.3 **Rolling Thunder**
+  - Slow
+  - 3 hits
+  - bad effect: increases aggro drawn from specials
+
+- [ ] lv.4 **Electrifying Show**
+  - Increases damage from the front +100%
+  - lowest damage ratio
 
 ### #50 Dromarch
 - [ ] Aux Cores 1 > 3
