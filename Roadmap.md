@@ -20,6 +20,7 @@
 - Adjustments
   - [ ] Mòrag's and Zeke's starting WP and SP
   - [ ] Lower the level of temporary party members
-  - [ ] Mythra's main costume is *Massive Melee Mythra*
+  - [ ] Mythra's main costume is *Massive Melee Mythra* (bl/bl130201)
+    - [ ] Swap Massive Melee Mythra costume model (bl/bl000201)
   - [ ] Drivers start with 1 item pouch and 2 Accessory slots
   - [ ] Consider prices and methods of acquiring item pouches and accessory slots
