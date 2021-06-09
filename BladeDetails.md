@@ -16,20 +16,19 @@ These are listed roughly from worst to best according to the "Official Community
   - She has a hard time dealing with aggro. Increased defenses mitigate that and also reflect on her Super Smash Bros. persona
 
 **Battle Skills**
-- [ ] **Purifying Flames**: Effect change https://xenoblade.github.io/xb2/bdat/common/BTL_Skill_Bl.html#1
+- [x] **Purifying Flames**: Effect change
   - I particularly never noticed if it made any difference during playthrough
-  - ~~Specials have a chance to instakill common enemies with 20%HP or less Specials have a chance~~ Specials have a chance to purge enemy rage status (3713~3717)
-    - Lv.1: 60% chance
-    - Lv.5 and Max Affinity: 100% chance
+  - ~~Specials have a chance to instakill common enemies with 20%HP or less Specials have a chance~~ Specials have a chance to purge enemy rage status
+    - 60% chance (Lv.1) → 100% chance (Lv.5)
 - [x] **Resplendence**: blade combo damage increase. Scales from +24% to ~~+72%~~ +100% 
 - [x] **Flame Edge**: critical damage increase. Scales from +10% to ~~+50%~~ +65%.
 
 **Specials**
-- [ ] **lv.1 Flame Nova**: ~~Hits a single target~~ a 5-5m AoE around the user
+- [x] **lv.1 Flame Nova**: ~~Hits a single target~~ a 5-5m AoE around the user
 - [ ] **lv.2 Prominence Revolt**: 
-- [x] **lv.3 Blazing End** ~~+25%~~ +30% crit chance modifier
-- [ ] **lv.4 Burning Sword**: ~~+20%~~ +25% crit chance modifier
-- [ ] **lv.4-EX Union Sword**: Now deals the damage of both blades' lv.4 Special (~~1500~~ 1150+1150 = 2300 damage)
+- [x] **lv.3 Blazing End** ~~+25%~~ +30% crit chance
+- [x] **lv.4 Burning Sword**: ~~+20%~~ +25% crit chance
+- [x] **lv.4-EX Union Sword**: Now deals the damage of both blades' lv.4 Special (~~1500~~ 1150+1150 = 2300 damage)
 ### #0.1 Pneuma
 - [ ] Thinking of increasing her activation timer from 60s to at least 90s, maybe even more, as in BoC difficulty she's much harder and less rewarding to pull off
 
