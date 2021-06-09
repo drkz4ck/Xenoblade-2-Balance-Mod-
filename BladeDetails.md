@@ -10,7 +10,7 @@ These are listed roughly from worst to best according to the "Official Community
 
 ### #0 Pyra
 **Status**
-- [x] Aux Cores Slots:~~2~~ 3
+- [x] Aux Cores Slots: ~~2~~ 3
 - [x] phys def ~~5%~~ 10%
 - [x] ether def ~~10%~~ 15%
   - She has a hard time dealing with aggro. Increased defenses mitigate that and also reflect on her Super Smash Bros. persona
@@ -36,10 +36,10 @@ These are listed roughly from worst to best according to the "Official Community
 ### #51 Electra
 **Status**
 - shield hammers improved overall
-- [ ] Aux Core Slots:~~1~~ 3
+- [ ] Aux Core Slots: ~~1~~ 3
 
 **Battle Skills**
-- [ ] **Clangy Girl**
+- [ ] **Clangy Girl**: Increases Block Rate by 20%
 - [ ] **Zappy Girl**: increases aggro every second 30/s > 175/s
   - Aggro is damage/2
   - At high levels you deal hundreds thousands of damage
@@ -52,7 +52,7 @@ These are listed roughly from worst to best according to the "Official Community
 - [ ] lv.1 **Bang-Bang Bound**
   - Below Average damage
   - 3 hits
-  - small radiu
+  - small radius
   - extra damage to toppled, but cant take advantage because speed
   - too slow!
 - [ ] lv.2 **Shocking Assault**
